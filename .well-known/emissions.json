@@ -1,0 +1,25 @@
+{
+    "name": "Some City",
+    "type": "city",
+    "identifiers": {
+        "UNLOCODE": "XX-SOM",
+        "GCoM": "XX1337"
+    },
+    "emissions": {
+        "2019": {
+            "scope1": 37000,
+            "scope2": 16000,
+            "scope3": 75000
+        },
+        "2020": {
+            "scope1": 35000,
+            "scope2": 18000,
+            "scope3": 65000
+        },
+        "2021": {
+            "scope1": 30000,
+            "scope2": 25000,
+            "scope3": 85000
+        }
+    }
+}
